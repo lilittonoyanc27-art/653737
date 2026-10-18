@@ -1,0 +1,6 @@
+{
+  "name": "Piano Español — Aprende jugando",
+  "description": "Интерактивное изучение испанских чисел и времени через фортепианную музыку для музыкантов и взрослых студентов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
